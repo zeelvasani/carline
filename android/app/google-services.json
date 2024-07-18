@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "884690146423",
+    "project_id": "carswap-16847",
+    "storage_bucket": "carswap-16847.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884690146423:android:55bc6a8063df3b2555e272",
+        "android_client_info": {
+          "package_name": "com.example.base_code"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx_SDvYeTEB6Ex1KFuz5kdA54j7klp0-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884690146423:android:86a376ab0a92954955e272",
+        "android_client_info": {
+          "package_name": "com.example.carline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx_SDvYeTEB6Ex1KFuz5kdA54j7klp0-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
